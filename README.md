@@ -2,7 +2,7 @@
 This is a full stack link application. In this project you can see all my public links.
 
 ## Demo
-Demo : https://linkro.vercel.app/AzarAhmadov
+Demo : [https://elvinnovruzov.com/](https://elvinnovruzov.com/)
 
 ## Features
 - Next.js and TypeScript Integration: Utilizing Next.js and TypeScript for a robust and statically-typed frontend, providing enhanced development capabilities and code maintainability.
@@ -26,15 +26,6 @@ Demo : https://linkro.vercel.app/AzarAhmadov
 Open to your ideas! Share feedback, report issues, or send pull requests to enhance this project
 
 ## Deployment
-Linkro is deployed on Vercel, a popular platform for hosting web applications.
-
-## Screenshots
-<img width="1511" alt="Screenshot 2024-02-17 at 15 47 02" src="https://github.com/AzarAhmadov/NextJs14-FullStack-LinkApp/assets/82292818/7f9544d4-4457-4c28-bf81-b500cadba2df">
-
-<img width="1511" alt="Screenshot 2024-02-17 at 16 33 50" src="https://github.com/AzarAhmadov/NextJs14-FullStack-LinkApp/assets/82292818/bf59d535-762b-4757-8016-fd74642b9857">
-
-<img width="1511" alt="Screenshot 2024-02-17 at 17 07 55" src="https://github.com/AzarAhmadov/NextJs14-FullStack-LinkApp/assets/82292818/ce4a89a2-447e-46ed-97f6-8d8fe35d57c2">
-
-
+Linkro is deployed on Hostinger
 
 
